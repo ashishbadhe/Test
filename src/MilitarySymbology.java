@@ -3,6 +3,7 @@ public class MilitarySymbology {
 	
 	public String id;
 	public String name;
+	public Date DOB;
 	
 	
 	public String getId() {
